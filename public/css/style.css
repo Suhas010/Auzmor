@@ -1,0 +1,66 @@
+.card-name{
+    text-align: -webkit-auto;
+    padding-left: 10%;
+}
+
+.card-no{
+    font-weight: 100;
+    font-size: 12px;
+    text-align: -webkit-left;
+    padding-left: 10%;
+    padding-top: 2%;
+}
+.card-owner{
+    text-align: -webkit-left;
+    padding-left: 3%;
+    padding-top: 6%;
+}
+.owner-name{
+
+    font-size: 13px;
+    text-align: -webkit-right;
+}
+.exchange{
+
+    font-size: 16px;
+}
+.card-balance{
+    font-size: xx-large;
+    font-weight: 600;
+    text-align: -webkit-left;
+    padding-left: 11%;
+}
+
+.bal{
+    text-align: -webkit-left;
+    font-size: 22px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.eth{
+    padding-top: 20px;
+}
+.balance{
+    font-size: 39px;
+}
+.profit-pro{
+    text-align: -webkit-left;
+    padding-left: 23%;
+}
+.profit-per{
+    color: #1eb125;
+    font-weight: 600;
+    font-size: 15px;
+}
+.rev{
+    padding-top: 4%;
+    font-size: 18px;
+}
+.profit{
+
+    font-size: 37px;
+}
+.card-acc{
+    font-size: 21px;
+    font-weight: 600;
+}

@@ -1,0 +1,254 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.PaperStyle{
+  height: 54px !important;
+  font-weight: 900;
+  font-size: 40px;
+  width: 95%;
+  margin: 15px;
+  background-color: #009A81 !important;
+  color: #ffff !important;
+  padding: 0px;
+  text-align: center;
+  display: 'inline-block';
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.Header{
+  padding: 1%;
+  width: 100%;
+}
+.Footer{
+  padding: 1%;
+  padding-top: 2%;
+  text-align: center;
+  text-align: -webkit-center;
+  font-size: large;
+  color: #868180;
+}
+.row {
+   margin-right: 0px !important; 
+   margin-left: 0px !important;  
+}
+.Logo{
+  padding-left: 4%;
+  font-size: 28px;
+  letter-spacing: 2px;
+  color: #f96838;
+  font-weight: 600;
+}
+.Section{   
+  padding-top: 2%;
+  width: 85%;
+  padding-left: 9%;
+}
+.Language-Card{
+  margin-bottom: 4%;
+}
+
+.Repo,Repo:hover,btn{
+  border-color: #fff !important; 
+  background-color: #fff !important;
+  color: #f55b5b;
+  font-size: 15px;
+  font-weight: 600;
+}
+.Repo-Name,btn{
+  border-color: #fff !important; 
+  background-color: #fff !important;
+  color: #f55b5b;
+  font-size: 20px;
+  font-weight: 600;
+
+}
+.Repo-details{
+  margin-top: 7px;
+  padding-right: 14px;
+}
+.repo-list{
+  margin-left: 4%;
+  padding-top: 2%;
+}
+.Languages{
+  font-size: 22px;
+  font-weight: 600 !important;
+}
+.language-details{
+  /* padding-right: 7%; */
+  padding-top: 4%;
+}
+.lang{
+  padding-right: 5%;
+}
+.repository-details{
+  padding-top: 5%;
+}
+
+.Repo-summery{
+  margin-top: 1%;
+  padding-left: 1%;
+  background-color: #ffffff;
+  color: #f96838;
+  font-size: 18px;
+  font-weight: 600;
+}
+.Repo-details-row{
+  padding-top: 5px;
+  width: 104%;
+
+}
+.filter{
+  padding-top: 5px;
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+.repo-count{
+  align-content: center;
+  font-size: 19px;
+  padding-top: 3%;
+  padding-left: 4%;
+  font-weight: 600;
+  color: #83878a;
+}
+.input{
+  font-size: 16px;
+  padding: 3px;
+  font-weight: 100;
+  color: #0c0b0b;
+}
+em{
+  background: #f96838;
+  border-radius: 16px;
+  padding: 6px;
+  color:white ;
+}
+in{
+  font-weight: 600;
+  color: cadetblue;
+}
+sup{
+  top: -4px;
+  color: ;
+  font-weight: 800;
+  font-size: 14px;
+}
+own{
+  margin: 2%;
+  background: #f96838;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 8px;
+  border-radius: 12px;
+}
+time{
+  background-color: #f96838;
+  color: white;
+  font-weight: 600;
+  padding: 6px;
+  border-radius: 25px;
+}
+.bottom{
+  padding-bottom: 2%;
+}
+.popupScreen {
+  padding: 1%!important;
+}
+.popupScreen .modal-content {
+
+  font-size: 14px!important;
+  color: #000!important;
+  letter-spacing: 0!important;
+  text-align: left!important;
+  width: 100%!important;
+  border-radius: 0;
+  margin-left: 0!important;
+  margin-top: 0!important;
+}
+.popupHeader {
+  background: #e8e9ea;
+  height: 48px;
+  font-size: 20px;
+}.popupMessageText {
+  font-size: 1vw;
+  color: #242424;
+  letter-spacing: 0;
+  padding-left: 3%;
+  line-height: 18px;
+  text-align: left;
+  padding-top: 30px;
+}   
+.modal-body {
+  position: relative;
+  padding: 40px;
+  font-size: 18px;
+  color: #58595a;
+}
+.popupButton{
+  background-color: #ff702b;
+  width: 87px;
+  color: white;
+  font-weight: 600;
+  font-size: 16px
+}
+.popupButton:hover{
+  background-color: red;
+  color: white;
+}
+.margin-top-6px{
+  margin-top: 6px;
+  margin-left: 22px;
+}
+.margin-top-1per{
+  margin-top: 1.3%;
+}
+.margin-top-2per{
+  margin-top: 2.3%;
+}
+.margin-top-16px{
+  margin-top: 16px;
+}
+
+.avatar{
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.avatar-img{
+  height: 287px;
+  width: 307px;
+  border-radius: 24px;
+  padding: 1%
+}
+img{
+  height: 92px;
+  width: 100px;
+}
+
+.noPadding{
+  padding: 0px !important;
+}
